@@ -1,0 +1,23 @@
+ ZimClick - Low-Fidelity Wireframes (Task 1)
+
+This repository contains the **Task 1** deliverables for the **CodeAlpha UI/UX Design Internship**. The objective of this project was to architect a clean, conversion-focused mobile user experience funnel for **ZimClick** (Sports & Fitness E-Commerce Store).
+
+ 📱 App Architecture & Screens
+The wireframe system maps out a standard 4-screen user flow optimized for mobile engagement:
+
+* Home Screen:** Features a left-aligned brand header, prominent search architecture, category filters, and a dual-column featured product grid.
+* Shop Grid / Product List:** Designed with high scalable density to smoothly display a large inventory (optimized for 50+ items look).
+* Product Details:** Clean typographic hierarchy focusing on product specs, variant selectors (size/color), and a bold primary CTA button.
+* Cart & Checkout:** Optimized transaction state with itemized order summaries, item counters, and an intuitive checkout funnel.
+
+ 🎨 UI/UX Design Standards Applied
+* **Grayscale System:** Built entirely using low-fidelity standards (Black, White, and Gray scales) to prioritize layout structure over visual assets.
+* **Content Placeholders:** Utilized standard layout blocks and crossed image placeholders to structure spatial distribution.
+* **Grid Consistency:** Maintained a strict structural grid padding across all interface layouts for device-level consistency.
+
+ 🔗 Live Figma Link
+👉 **[View Interactive Wireframes on Figma](https://www.figma.com/make/xAOKFImvHf3cQO3BcMDAI9/TASK-1--Low-Fidelity-Wireframes?t=ZijRmxvb62DhvXke-1)**  
+*(Access configuration set to: "Anyone with the link can view")*
+
+---
+Submitted for official review under the CodeAlpha UI/UX Internship program.
