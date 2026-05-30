@@ -1,0 +1,18 @@
+ZimClick - High-Fidelity UI Design (Task 2)
+
+This repository contains the **Task 2** deliverables for the **CodeAlpha UI/UX Design Internship**. Building upon the structural layouts approved in Task 1, this milestone focuses on delivering a production-ready, premium visual interface for **ZimClick** (Sports & Fitness E-Commerce Store).
+
+ ⚡ Visual Upgrades & System Features
+The application infrastructure was transformed into a high-fidelity visual system with the following specifications:
+
+* **Brand Aesthetics:** Integrated a premium sports identity utilizing a clean minimal light background paired with sharp Carbon Black typography and dynamic Crimson Red / High-Energy accents for interactive CTA actions.
+* **Production-Ready Visuals:** Replaced low-fidelity crossed-box placeholders with high-resolution product imagery and structural catalog cards mapped for a live 50+ item inventory.
+* **Authentication & User Flow:** Designed a functional **Login/Sign-In Screen** and implemented conditional logic gates that securely route guest users to authentication before unlocking the custom **My Account** profile dashboard and order history states.
+* **Modern UI Elements:** Applied modern interface constraints including clean 12px rounded corner radiuses, soft layout depth shadows, and consistent typographic contrasting using high-end geometric sans-serif fonts.
+
+ 🔗 Live Figma Link
+👉 **[View High-Fidelity UI Design on Figma](https://www.figma.com/make/cnQNxZXEsTSXspDBcxLZ1a/Task-2--High-Fidelity-UI-Design?t=OpPQYU15BG1CJZps-1)**  
+*(Access configuration set to: "Anyone with the link can view")*
+
+---
+Submitted for official review under the CodeAlpha UI/UX Internship program.
